@@ -1,0 +1,7 @@
+{
+  "name": "sample",
+  "description": "Sample Application before release",
+  "require": {
+    "ringcentral/ringcentral-php": "dev-master"
+  }
+}
